@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "381062753002",
+    "firebase_url": "https://appcenterpush-13e99.firebaseio.com",
+    "project_id": "appcenterpush-13e99",
+    "storage_bucket": "appcenterpush-13e99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381062753002:android:bd85a795efbee885",
+        "android_client_info": {
+          "package_name": "com.xamarinlatino.AppCenterPush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381062753002-qvu1md0emhl2hinq9ru941h8ns2vv6on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPT1bI1hN_q0yNzjP3U2qiuHuab0ItbMU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

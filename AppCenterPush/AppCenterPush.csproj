@@ -11,5 +11,6 @@
 
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="3.3.0.967583" />
+    <PackageReference Include="Microsoft.AppCenter.Push" Version="1.12.0" />
   </ItemGroup>
 </Project>
